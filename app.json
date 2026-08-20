@@ -6,6 +6,11 @@
     "orientation": "portrait",
     "android": {
       "package": "com.lector.tts"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "81a0e699-7b6b-40f8-92e2-6afb3ce9d41c"
+      }
     }
   }
 }
