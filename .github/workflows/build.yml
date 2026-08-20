@@ -22,4 +22,5 @@ jobs:
         env:
           EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
         run: |
+          npx eas-cli init --account lulagros --non-interactive || true
           npx eas-cli build --platform android --profile preview --non-interactive
