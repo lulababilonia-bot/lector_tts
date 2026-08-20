@@ -4,14 +4,8 @@
     "slug": "lector-tts",
     "version": "1.0.0",
     "orientation": "portrait",
-    "owner": "lulagross-team",
     "android": {
       "package": "com.lector.tts"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "bae5245c-986e-4b18-a65b-06e1ba1e86f"
-      }
     }
   }
 }
